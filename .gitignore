@@ -1,0 +1,13 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Node modules (si Node.js plus tard)
+node_modules/
